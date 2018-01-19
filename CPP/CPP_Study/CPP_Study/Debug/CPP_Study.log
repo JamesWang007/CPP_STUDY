@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\bejin\onedrive\文档\visual studio 2017\projects\cpp\cpp_study\cpp_study\c_str.h(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\bejin\onedrive\文档\visual studio 2017\projects\cpp\cpp_study\cpp_study\c_str.h(15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(431): note: see declaration of 'strtok'
+c:\users\bejin\onedrive\文档\visual studio 2017\projects\cpp\cpp_study\cpp_study\c_str.h(19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(431): note: see declaration of 'strtok'
+  CPP_Study.vcxproj -> C:\Users\bejin\OneDrive\文档\Visual Studio 2017\Projects\CPP\CPP_Study\Debug\CPP_Study.exe
+  CPP_Study.vcxproj -> C:\Users\bejin\OneDrive\文档\Visual Studio 2017\Projects\CPP\CPP_Study\Debug\CPP_Study.pdb (Partial PDB)
