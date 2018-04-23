@@ -2,13 +2,16 @@
 #include <iostream>
 #include <cstring>
 #include <string>
+#include <cstdlib>
+#include <cstdio>
+using namespace std;
 
 int test_c_str()
 {
-	std::string str("Please split this sentence into tokens");
+	string str("Please split this sentence into tokens");
 
 	char * cstr = new char[str.length() + 1];
-	std::strcpy(cstr, str.c_str());
+	strcpy(cstr, str.c_str());
 
 	// cstr now contains a c-string copy of str
 
