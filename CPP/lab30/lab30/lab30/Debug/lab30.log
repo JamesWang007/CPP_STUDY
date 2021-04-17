@@ -1,0 +1,8 @@
+﻿  project3.cpp
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(79): warning C4018: '<': signed/unsigned mismatch
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(115): warning C4018: '<': signed/unsigned mismatch
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(135): warning C4018: '<': signed/unsigned mismatch
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(156): warning C4018: '<': signed/unsigned mismatch
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(166): warning C4018: '<': signed/unsigned mismatch
+e:\github\cpp_study\cpp\lab30\lab30\lab30\project3.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  lab30.vcxproj -> E:\GitHub\CPP_STUDY\CPP\lab30\lab30\Debug\lab30.exe

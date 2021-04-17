@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617934984 source:e:\github\cpp_study\dpw_ex04\main.cpp
+	<iostream>
+	"h1.h"
+	"FunctionPointer.h"
+
+1617932532 e:\github\cpp_study\dpw_ex04\h1.h
+	<iostream>
+
+1617935766 e:\github\cpp_study\dpw_ex04\functionpointer.h
+	<iostream>
+
