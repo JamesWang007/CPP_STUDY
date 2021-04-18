@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Calculator.h"
 using namespace std;
 
 struct MyStruct 
@@ -43,8 +44,12 @@ void(*signal(int signo, void(*func)(int)))(int)
 	return func;
 }
 
+
+
 int main()
 {
+	Calculator c_obj(1, 2);
+
 	pF01 = Func01;
 
 	pF01(10);

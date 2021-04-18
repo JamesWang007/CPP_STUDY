@@ -8,6 +8,9 @@
 			"args": [
 				"-g",
 				"${file}",
+				"src/Calculator.cpp",
+				"src/Swap.cpp",
+				"-Iinclude",
 				"-o",
 				"${fileDirname}\\${fileBasenameNoExtension}.exe"
 			],
