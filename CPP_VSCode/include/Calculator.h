@@ -10,10 +10,11 @@ class Calculator
 public :
     int id;
     string name;
-    Calculator(double x=0, double y=0);
+    Calculator(double = 0, double = 0);
     ~Calculator();
 
     double getX();
+    void screen(int, int, int = 3);
     
 private :
     double _x, _y;
